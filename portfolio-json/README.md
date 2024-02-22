@@ -44,7 +44,7 @@ y en las modificaciones de <a href="https://github.com/midudev/minimalist-portfo
 
 ```bash
 # Instala Astro
-cd portfolio
+cd portfolio-json
 npm install astro
 ```
 
