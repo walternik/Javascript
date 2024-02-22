@@ -1,0 +1,331 @@
+{
+  "basics": {
+    "name": "Walter Miguel Melnik",
+    "label": "System Engineer with more than 15 years of experience in the information technology and service industry",
+    "image": "/me.webp",
+    "email": "walter.melnik@gmail.com",
+    "phone": "+54 11 5707 6136",
+    "url": "",
+    "summary": "Experienced System Engineer with a proven track record in the information technology and services industry. Skilled in SCRUM, Continuous Integration, Back End and Full Stack development. Also an effective team worker, problem-solving and self-learner.",
+    "location": {
+      "address": "",
+      "postalCode": "C1029AAF",
+      "city": "Ciudad Autónoma de Buenos Aires",
+      "countryCode": "AR",
+      "region": "Argentina"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "walternik",
+        "url": "https://github.com/walternik"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "walternik",
+        "url": "https://linkedin.com/in/walter-melnik"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Kopius",
+      "position": "Senior Backend Engineer",
+      "url": "https://kopiustech.com/",
+      "startDate": "2021-04-01",
+      "endDate": null,
+      "summary": "Making decisions about the implementation of customer requirements. Development and implementation of LMS. Upgrade sites to the latest versions. Integration with API REST. Creation and customization of plugins. Skills: Totara, Moodle, AWS, Node.js, Vuej.js, PostgreSQL, MySQL, Python, Git, Linux.",
+      "highlights": [
+        "Senior BackEnd"
+      ]
+    },
+    {
+      "name": "Sofrecom",
+      "position": "Backend Developer Engineer",
+      "url": "https://www.sofrecom.com/",
+      "startDate": "2012-06-01",
+      "endDate": "2021-09-01",
+      "summary": "Development and implementation in Laravel, Moodle and Joomla. Upgrade sites to the latest versions. Global search engine for PHP. OAuth, SAML, LDAP authentications. Application of design patterns and microservices. Onboarding of new team members. Skills: PHP, Javascript, MySQL, Angular, Jira, Git, Jenkins, Linux.",
+      "highlights": [
+        "Senior BackEnd"
+      ]
+    },
+    {
+      "name": "Wamnet",
+      "position": "Senior FullStack Developer",
+      "url": "https://www.wamnet.com.ar/",
+      "startDate": "2006-03-01",
+      "endDate": "2012-05-01",
+      "summary": "Frontend and Backend development, including analysis, design and programming. eCommerce with shopping cart and credit card payment. Cronjobs configuration in Linux. Subscription forms and Newsletters modules. Course creation with SCORMs. Skills: PHP, MySQL, SQL Server, CodeIgniter, Javascript, CSS, Linux.",
+      "highlights": [
+        "Senior FullStack"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "University of Buenos Aires",
+    "url": "https://www.fi.uba.ar/",
+    "area": "Systems Engineer - Production Systems orientation",
+    "studyType": "Master",
+    "startDate": "2004",
+    "endDate": "2013",
+    "score": "8.0",
+    "courses": []
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "PHP",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "PHP Framework", "Server"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "Python", "Server"
+      ]
+    },
+    {
+      "name": "Laravel",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "PHP framewok", "Server"
+      ]
+    },
+    {
+      "name": "Moodle",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "PHP framewok", "Server"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "Python framewok", "Server"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "Advanced",
+      "keywords": [
+        "SQL", "Database", "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": [
+        "SQL", "Database", "Backend"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Web development", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "Server"
+      ]
+    },
+    {
+      "name": "NodeJS",
+      "level": "Advanced",
+      "keywords": [
+        "Web development", "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version control", "Collaboration", "Source code"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Dogs",
+      "Cats"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "ASA Education Center",
+      "isActive": true,
+      "description": "Totara PHP platform for American Society of Anesthesiologists",
+      "highlights": [
+        "+200 course certs",
+        "AWS",
+        "Medical courses",
+        "Workspaces",
+        "Vue.js",
+        "GraphQL"
+      ],
+      "url": "https://education.asahq.org/"
+    },
+    {
+      "name": "Call COPIC",
+      "isActive": true,
+      "description": "Insurance company with professional education with courses and seminars",
+      "highlights": [
+        "+5000 active users",
+        "eLearning",
+        "Python",
+        "Totara", 
+        "Moodle"
+      ],
+      "url": "https://www.callcopic.com/professional-education"
+    },
+    {
+      "name": "Trainer",
+      "isActive": true,
+      "description": "Training platform in PHP Moodle for Telecom, Personal and Flow staff",
+      "highlights": [
+        "+10000 active users",
+        "Moodle",
+        "eLearning",
+        "Javascript"
+      ],
+      "url": "https://trainer.telecom.com.ar/"
+    },
+    {
+      "name": "Universo Telecom",
+      "isActive": true,
+      "description": "Courses developed for digital library of Telecom users",
+      "highlights": [
+        "+7000 active users",
+        "Moodle",
+        "Javascript",
+        "Digital library"
+      ],
+      "url": "https://utcampus.telecom.com.ar/"
+    },
+    {
+      "name": "Metrotel",
+      "isActive": true,
+      "description": "Laravel PHP platform. Connectivity and technology services for companies",
+      "highlights": [
+        "B2B platform",
+        "Microservices",
+        "Laravel",
+        "AngularJS"
+      ],
+      "url": "https://metrotel.com.ar/"
+    },
+    {
+      "name": "Compumundo",
+      "isActive": true,
+      "description": "System developed in PHP for online purchases of IT products",
+      "highlights": [
+        "+40k monthly visits",
+        "PHP",
+        "eCommerce",
+        "IT products"
+      ],
+      "url": "https://www.compumundo.com.ar/"
+    },
+    {
+      "name": "Black Hawk Systems",
+      "isActive": true,
+      "description": "Computer systems, control and security services, supplies and hardware",
+      "highlights": [
+        "Security systems",
+        "PHP",
+        "Hardware",
+        "Wordpress"
+      ],
+      "url": "https://www.blackhawksistemas.com.ar/"
+    },
+    {
+      "name": "Python labs",
+      "isActive": true,
+      "description": "Projects, functions and exercises for scientific computing with Python",
+      "highlights": [
+        "Scientific Computing",
+        "Python",
+        "Python development"
+      ],
+      "github": "https://github.com/walternik/Python"
+    },
+    {
+      "name": "Moodle plugins",
+      "isActive": true,
+      "description": "Plugins developed or adapted for Moodle or Totara frameworks",
+      "highlights": [
+        "Moodle",
+        "Custom plugins",
+        "Custom integrations",
+        "Totara"
+      ],
+      "github": "https://github.com/walternik/Moodle"
+    }
+  ]
+}
