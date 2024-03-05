@@ -118,14 +118,14 @@
       ]
     },
     {
-      "name": "Laravel",
+      "name": "Moodle",
       "level": "Advanced",
       "keywords": [
         "Web development", "Backend", "PHP framewok", "Server"
       ]
     },
     {
-      "name": "Moodle",
+      "name": "Laravel",
       "level": "Advanced",
       "keywords": [
         "Web development", "Backend", "PHP framewok", "Server"
@@ -232,6 +232,35 @@
       "url": "https://education.asahq.org/"
     },
     {
+      "name": "SAS Training",
+      "isActive": true,
+      "description": "Data analytics courses, instructor-led classes, tutorials and much more",
+      "highlights": [
+        "eLearning",
+        "Analytics",
+        "Cloud",
+        "Totara",
+        "Javascript",
+        "AI",
+        "Machine Learning"
+      ],
+      "url": "https://learn.sas.com/"
+    },
+    {
+      "name": "Cellebrite",
+      "isActive": true,
+      "description": "Digital forensic training, partnering with public and private organizations",
+      "highlights": [
+        "eLearning",
+        "Digital forensics",
+        "Data analytics",
+        "Security",
+        "Investigations",
+        "Totara"
+      ],
+      "url": "https://cellebrite.com/en/training/"
+    },
+    {
       "name": "Call COPIC",
       "isActive": true,
       "description": "Insurance company with professional education with courses and seminars",
@@ -267,6 +296,19 @@
         "Digital library"
       ],
       "url": "https://utcampus.telecom.com.ar/"
+    },
+    {
+      "name": "Karbooking",
+      "isActive": true,
+      "description": "Software as a Service for travel agencies, control and integrated management",
+      "highlights": [
+        "Travels",
+        "Yii framework",
+        "PHP",
+        "SaaS",
+        "Google maps"
+      ],
+      "url": "https://karbooking.com/"
     },
     {
       "name": "Metrotel",
@@ -313,6 +355,7 @@
         "Python",
         "Python development"
       ],
+      "url": "https://github.com/walternik/Python",
       "github": "https://github.com/walternik/Python"
     },
     {
@@ -325,6 +368,7 @@
         "Custom integrations",
         "Totara"
       ],
+      "url": "https://github.com/walternik/Moodle",
       "github": "https://github.com/walternik/Moodle"
     }
   ]
