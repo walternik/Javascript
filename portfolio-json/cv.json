@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Walter Miguel Melnik",
-    "label": "System Engineer with more than 15 years of experience in the information technology and service industry",
+    "label": "Software Engineer with more than 15 years of experience in the information technology and service industry",
     "image": "/me.webp",
     "email": "walter.melnik@gmail.com",
     "phone": "+54 11 5707 6136",
     "url": "",
-    "summary": "Experienced System Engineer with a proven track record in the information technology and services industry. Skilled in SCRUM, Continuous Integration, Back End and Full Stack development. Also an effective team worker, problem-solving and self-learner.",
+    "summary": "Experienced Software Engineer with a proven track record in the information technology and services industry. Skilled in SCRUM, E-learning, Back End and Full Stack development. Also an effective team worker, problem-solving and self-learner.",
     "location": {
       "address": "",
       "postalCode": "C1029AAF",
@@ -76,7 +76,7 @@
   "education": [{
     "institution": "University of Buenos Aires",
     "url": "https://www.fi.uba.ar/",
-    "area": "Systems Engineer - Production Systems orientation",
+    "area": "Software Engineer - Production Systems orientation",
     "studyType": "Master",
     "startDate": "2004",
     "endDate": "2013",
